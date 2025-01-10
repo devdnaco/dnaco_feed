@@ -1,5 +1,5 @@
 {
-	"minStableVersion": "0.2.1",
-	"minAllowedVersion": "0.2.1",
+	"minStableVersion": "0.2.0",
+	"minAllowedVersion": "0.2.0",
 	"storefrontVersion": "2"
 }
