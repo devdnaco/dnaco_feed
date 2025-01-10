@@ -1,5 +1,6 @@
 {
 	"minStableVersion": "0.2.0",
 	"minAllowedVersion": "0.2.0",
-	"storefrontVersion": "2"
+	"storefrontVersion": "2",
+	"truDiagnosticVersion": "1",
 }
