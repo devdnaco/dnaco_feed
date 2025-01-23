@@ -1,0 +1,216 @@
+{
+  "sku_4bd977cad4ea00c97ccad3fe3753d2": {
+   "name": "PGx",
+   "reports": [{
+     "id": "rt_26d228663f13a88592a12d16cf9587",
+     "key": "Pgx",
+     "name": "PGX Report",
+     "object": "report_type",
+     "color1": "#690837",
+     "color2": "#9B0709"
+   }]
+ },
+
+  "sku_12e33eea34ffa0cd895581d1df3aa4": {
+    "name": "DNAging",
+    "reports": [{
+      "id": "rt_d4735e3a265e16eee03f59718b9b5d",
+      "key": "WeightLoss",
+      "name": "Weight Loss Response Report",
+      "color1": "#26066F",
+      "color2": "#5D008F"
+    },
+    {
+      "id": "rt_4e07408562bedb8b60ce05c1decfe3",
+      "key": "ImmuneCenegenics",
+      "name": "12 Cell Immune Report",
+      "color1": "#490000",
+      "color2": "#8F4000"
+    },
+    {
+      "id": "rt_4b227777d4dd1fc61c6f884f48641d",
+      "key": "DunedinPoAm",
+      "name": "DunedinPACE: Pace of Aging Report",
+      "color1": "#003049",
+      "color2": "#00218F"
+    },
+    {
+      "id": "rt_ef2d127de37b942baad06145e54b0c",
+      "key": "Telomere",
+      "name": "Telomere Length Report",
+      "color1": "#004937",
+      "color2": "#036F79"
+    },
+    {
+      "id": "rt_7902699be42c8a8e46fbbb45017265",
+      "key": "Loci",
+      "name": "Type 2 Diabetes Risk Report",
+      "color1": "#693908",
+      "color2": "#9B7D07"
+    },
+    {
+      "id": "rt_19581e27de7ced00ff1ce50b2047e7",
+      "key": "MitoticClock",
+      "name": "Mitotic Clock Report",
+      "color1": "#690837",
+      "color2": "#9B0709"
+    },
+    {
+      "id": "rt_4fc82b26aecb47d2868c4efbe35817",
+      "key": "ProviderSummary",
+      "name": "TruAge Provider Summary Report",
+      "color1": "#690837",
+      "color2": "#9B0709"
+    },
+    {
+      "id": "rt_6b51d431df5d7f141cbececcf79edf",
+      "key": "PatientSummary",
+      "name": "TruAge Patient Summary Report",
+      "color1": "#690837",
+      "color2": "#9B0709"
+    },
+    {
+      "id": "rt_3fdba35f04dc8c462986c992bcf875",
+      "key": "Inflammation",
+      "name": "Inflammation (CRP & IL-6) Report",
+      "color1": "#690837",
+      "color2": "#9B0709"
+    },
+    {
+      "id": "rt_8527a891e224136950ff32ca212b45",
+      "key": "OmiCmAge",
+      "name": "OMICmAge: Biological Age Report",
+      "color1": "#690837",
+      "color2": "#9B0709"
+    },
+    {
+      "id": "rt_e629fa6598d732768f7c726b4b6212",
+      "key": "PhysicalFitness",
+      "name": "Fitness Age (VO2max, FEV1, grip strength, & gait speed) Report",
+      "color1": "#690837",
+      "color2": "#9B0709"
+    },
+    {
+      "id": "rt_27badc983df1780b60c2b3fa9d3a19",
+      "key": "TruAge",
+      "name": "TruAge Report",
+      "color1": "#690837",
+      "color2": "#9B0709"
+    },
+    {
+      "id": "rt_983bd614bb5afece5ab3b6023f7114",
+      "key": "SymphonyAge",
+      "name": "SYMPHONYAge: Organ Systems Age",
+      "color1": "#690837",
+      "color2": "#9B0709"
+    },
+    {
+      "id": "rt_0604cd3138feed202ef293e062da2f",
+      "key": "TruHealth",
+      "name": "TruHealth Report",
+      "color1": "#690837",
+      "color2": "#9B0709"
+    }
+  ]},
+  "sku_a2bc0d8ebddfd2315fdbdf2363eea6": {
+    "name": "DNAging",
+    "reports": [{
+      "id": "rt_d4735e3a265e16eee03f59718b9b5d",
+      "key": "WeightLoss",
+      "name": "Weight Loss Response Report",
+      "color1": "#26066F",
+      "color2": "#5D008F"
+    },
+    {
+      "id": "rt_4e07408562bedb8b60ce05c1decfe3",
+      "key": "ImmuneCenegenics",
+      "name": "12 Cell Immune Report",
+      "color1": "#490000",
+      "color2": "#8F4000"
+    },
+    {
+      "id": "rt_4b227777d4dd1fc61c6f884f48641d",
+      "key": "DunedinPoAm",
+      "name": "DunedinPACE: Pace of Aging Report",
+      "color1": "#003049",
+      "color2": "#00218F"
+    },
+    {
+      "id": "rt_ef2d127de37b942baad06145e54b0c",
+      "key": "Telomere",
+      "name": "Telomere Length Report",
+      "color1": "#004937",
+      "color2": "#036F79"
+    },
+    {
+      "id": "rt_7902699be42c8a8e46fbbb45017265",
+      "key": "Loci",
+      "name": "Type 2 Diabetes Risk Report",
+      "color1": "#693908",
+      "color2": "#9B7D07"
+    },
+    {
+      "id": "rt_19581e27de7ced00ff1ce50b2047e7",
+      "key": "MitoticClock",
+      "name": "Mitotic Clock Report",
+      "color1": "#690837",
+      "color2": "#9B0709"
+    },
+    {
+      "id": "rt_4fc82b26aecb47d2868c4efbe35817",
+      "key": "ProviderSummary",
+      "name": "TruAge Provider Summary Report",
+      "color1": "#690837",
+      "color2": "#9B0709"
+    },
+    {
+      "id": "rt_6b51d431df5d7f141cbececcf79edf",
+      "key": "PatientSummary",
+      "name": "TruAge Patient Summary Report",
+      "color1": "#690837",
+      "color2": "#9B0709"
+    },
+    {
+      "id": "rt_3fdba35f04dc8c462986c992bcf875",
+      "key": "Inflammation",
+      "name": "Inflammation (CRP & IL-6) Report",
+      "color1": "#690837",
+      "color2": "#9B0709"
+    },
+    {
+      "id": "rt_8527a891e224136950ff32ca212b45",
+      "key": "OmiCmAge",
+      "name": "OMICmAge: Biological Age Report",
+      "color1": "#690837",
+      "color2": "#9B0709"
+    },
+    {
+      "id": "rt_e629fa6598d732768f7c726b4b6212",
+      "key": "PhysicalFitness",
+      "name": "Fitness Age (VO2max, FEV1, grip strength, & gait speed) Report",
+      "color1": "#690837",
+      "color2": "#9B0709"
+    },
+    {
+      "id": "rt_27badc983df1780b60c2b3fa9d3a19",
+      "key": "TruAge",
+      "name": "TruAge Report",
+      "color1": "#690837",
+      "color2": "#9B0709"
+    },
+    {
+      "id": "rt_983bd614bb5afece5ab3b6023f7114",
+      "key": "SymphonyAge",
+      "name": "SYMPHONYAge: Organ Systems Age",
+      "color1": "#690837",
+      "color2": "#9B0709"
+    },
+    {
+      "id": "rt_0604cd3138feed202ef293e062da2f",
+      "key": "TruHealth",
+      "name": "TruHealth Report",
+      "color1": "#690837",
+      "color2": "#9B0709"
+    }
+  ]}
+}

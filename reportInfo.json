@@ -1,0 +1,206 @@
+[
+    {
+        "id": "mood",
+        "name": "Mood and Behaviour",
+        "color1": "#26066F",
+        "color2": "#5D008F",
+        "video": "https://dnacompany.azureedge.net/assets/video/mood_and_behaviour%20(1080p).mp4",
+        "sections": [
+            {
+                "name": "System Summary",
+                "image": "https://dnacompany.azureedge.net/assets/images/m&b/mb_summary_bg.jpg"
+            },
+            {
+                "name": "ADHD",
+                "image": "https://dnacompany.azureedge.net/assets/images/m&b/mb_adhd_bg.jpg"
+            },
+            {
+                "name": "Addiction",
+                "image": "https://dnacompany.azureedge.net/assets/images/m&b/mb_addiction_bg.jpg"
+            },
+            {
+                "name": "Anxiety",
+                "image": "https://dnacompany.azureedge.net/assets/images/m&b/mb_anxiety_bg.jpg"
+            },
+            {
+                "name": "Burnout",
+                "image": "https://dnacompany.azureedge.net/assets/images/m&b/mb_burnout_bg.jpg"
+            },
+            {
+                "name": "Empathetic vs Logical Behavior",
+                "image": "https://dnacompany.azureedge.net/assets/images/m&b/mb_empathy_bg.jpg"
+            },
+            {
+                "name": "Irritation and Frustration",
+                "image": "https://dnacompany.azureedge.net/assets/images/m&b/mb_irratation_bg.jpg"
+            },
+            {
+                "name": "Procrastination and Distraction",
+                "image": "https://dnacompany.azureedge.net/assets/images/m&b/mb_procra_bg.jpg"
+            },
+            {
+                "name": "Thinking Patterns and Neurotic Tendencies",
+                "image": "https://dnacompany.azureedge.net/assets/images/m&b/mb_think_bg.jpg"
+            }
+        ]
+    },
+    {
+        "id": "diet",
+        "name": "Diet and Nutrition",
+        "color1": "#490000",
+        "color2": "#8F4000",
+        "video": "https://dnacompany.azureedge.net/assets/video/diet_and_nutrition%20(1080p).mp4",
+        "sections": [
+            {
+                "name": "System Summary",
+                "image": "https://dnacompany.azureedge.net/assets/images/diet/diet_summary_bg.jpg"
+            },
+            {
+                "name": "Behavioral Genetics",
+                "image": "https://dnacompany.azureedge.net/assets/images/diet/diet_behavior_bg.jpg"
+            },
+            {
+                "name": "Carbohydrates",
+                "image": "https://dnacompany.azureedge.net/assets/images/diet/diet_carbs_bg.jpg"
+            },
+            {
+                "name": "Dietary Fats",
+                "image": "https://dnacompany.azureedge.net/assets/images/diet/diet_fats_bg.jpg"
+            },
+            {
+                "name": "Microbiome",
+                "image": "https://dnacompany.azureedge.net/assets/images/diet/diet_microbiome_bg.jpg"
+            },
+            {
+                "name": "Micronutrients",
+                "image": "https://dnacompany.azureedge.net/assets/images/diet/diet_micronutrien_bg.jpg"
+            }
+        ]
+    },
+    {
+        "id": "sleep",
+        "name": "Quality of Sleep",
+        "color1": "#003049",
+        "color2": "#00218F",
+        "video": "https://dnacompany.azureedge.net/assets/video/sleep%20(1080p).mp4",
+        "sections": [
+            {
+                "name": "System Summary",
+                "image": "https://dnacompany.azureedge.net/assets/images/sleep/sleep_summary_bg.jpg"
+            },
+            {
+                "name": "Circadian Rhythms",
+                "image": "https://dnacompany.azureedge.net/assets/images/sleep/circadian_rhythm_bg.jpg"
+            },
+            {
+                "name": "Environmental Response",
+                "image": "https://dnacompany.azureedge.net/assets/images/sleep/sleep_enviroment_bg.jpg"
+            },
+            {
+                "name": "Food Response",
+                "image": "https://dnacompany.azureedge.net/assets/images/sleep/sleep_food_bg.jpg"
+            },
+            {
+                "name": "Pleasure Response",
+                "image": "https://dnacompany.azureedge.net/assets/images/sleep/sleep_pleasure_bg.jpg"
+            },
+            {
+                "name": "Stress Response",
+                "image": "https://dnacompany.azureedge.net/assets/images/sleep/sleep_stress_bg.jpg"
+            }
+        ]
+    },
+    {
+        "id": "hormones",
+        "name": "Hormones and Body",
+        "color1": "#004937",
+        "color2": "#036F79",
+        "video": "https://dnacompany.azureedge.net/assets/video/body_type%20(1080p).mp4",
+        "sections": [
+            {
+                "name": "System Summary",
+                "image": "https://dnacompany.azureedge.net/assets/images/hormones/hormones_summary_bg.jpg"
+            },
+            {
+                "name": "Estrogen Toxicity",
+                "image": "https://dnacompany.azureedge.net/assets/images/hormones/hormones_skin_bg.jpg"
+            },
+            {
+                "name": "Fitness, Rest, and Recovery",
+                "image": "https://dnacompany.azureedge.net/assets/images/hormones/hormones_fitness_bg.jpg"
+            },
+            {
+                "name": "Hair Health",
+                "image": "https://dnacompany.azureedge.net/assets/images/hormones/hormones_hair_bg.jpg"
+            },
+            {
+                "name": "Skin Health",
+                "image": "https://dnacompany.azureedge.net/assets/images/hormones/hormones_skin_bg.jpg"
+            }
+        ]
+    },
+    {
+        "id": "immunity",
+        "name": "Anti-Inflammation",
+        "color1": "#693908",
+        "color2": "#9B7D07",
+        "video": "https://dnacompany.azureedge.net/assets/video/immunity_and_detox%20(1080p).mp4",
+        "sections": [
+            {
+                "name": "System Summary",
+                "image": "https://dnacompany.azureedge.net/assets/images/inflamation/inf_summary_bg.jpg"
+            },
+            {
+                "name": "Antioxidation",
+                "image": "https://dnacompany.azureedge.net/assets/images/inflamation/inf_anti_bg.jpg"
+            },
+            {
+                "name": "Glutathionization",
+                "image": "https://dnacompany.azureedge.net/assets/images/inflamation/inf_glut_bg.jpg"
+            },
+            {
+                "name": "Methylation",
+                "image": "https://dnacompany.azureedge.net/assets/images/inflamation/inf_meth_bg.jpg"
+            },
+            {
+                "name": "Vitamin D",
+                "image": "https://dnacompany.azureedge.net/assets/images/inflamation/inf_vitd_bg.jpg"
+            }
+        ]
+    },
+    {
+        "id": "cardio",
+        "name": "Cardiovascular",
+        "color1": "#690837",
+        "color2": "#9B0709",
+        "video": "https://dnacompany.azureedge.net/assets/video/cardiovascular%20(1080p).mp4",
+        "sections": [
+            {
+                "name": "System Summary",
+                "image": "https://dnacompany.azureedge.net/assets/images/cardiovascular/cardio_summary_bg.jpg"
+            },
+            {
+                "name": "Hypercholesterolemia (High Cholesterol)",
+                "image": "https://dnacompany.azureedge.net/assets/images/cardiovascular/cardio_cholesterol_bg.jpg"
+            },
+            {
+                "name": "Hypertension (High Blood Pressure)",
+                "image": "https://dnacompany.azureedge.net/assets/images/cardiovascular/cardio_hypertension_bg.jpg"
+            },
+            {
+                "name": "Inflammation",
+                "image": "https://dnacompany.azureedge.net/assets/images/cardiovascular/cardio_inflammation_bg.jpg"
+            },
+            {
+                "name": "Statins",
+                "image": "https://dnacompany.azureedge.net/assets/images/cardiovascular/cardio_statins_bg.jpg"
+            }
+        ]
+    },
+    {
+        "id": "longevity",
+        "name": "Longevity",
+        "color1": "#610869",
+        "color2": "#9B0798"
+    }
+]

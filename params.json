@@ -1,6 +1,9 @@
 {
 	"minStableVersion": "0.2.0",
 	"minAllowedVersion": "0.2.0",
-	"storefrontVersion": "3",
-	"truDiagnosticVersion": "1"
+	"storefrontVersion": 3,
+	"truDiagnosticVersion": 1,
+	"truSkuDataVersion": 1,
+	"reportInfoVersion": 1,
+	"clinicianReportInfoVersion": 1
 }

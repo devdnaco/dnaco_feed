@@ -1,0 +1,38 @@
+[
+    {
+        "id": "mood",
+        "name": "Mood and Behaviour",
+        "color1": "#26066F",
+        "color2": "#5D008F"
+    },
+    {
+        "id": "diet",
+        "name": "Diet and Nutrition",
+        "color1": "#490000",
+        "color2": "#8F4000"
+    },
+    {
+        "id": "sleep",
+        "name": "Quality of Sleep",
+        "color1": "#003049",
+        "color2": "#00218F"
+    },
+    {
+        "id": "hormones",
+        "name": "Hormones and Body",
+        "color1": "#004937",
+        "color2": "#036F79"
+    },
+    {
+        "id": "immunity",
+        "name": "Anti-Inflammation",
+        "color1": "#693908",
+        "color2": "#9B7D07"
+    },
+    {
+        "id": "cardio",
+        "name": "Cardiovascular",
+        "color1": "#690837",
+        "color2": "#9B0709"
+    }
+]
