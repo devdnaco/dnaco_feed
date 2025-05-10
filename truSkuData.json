@@ -212,5 +212,29 @@
       "color1": "#690837",
       "color2": "#9B0709"
     }
-  ]}
+  ]},
+    "sku_7c4d0fd5a3cec66a6938f5b02bf69e": {
+    "name": "DNAging",
+    "reports": [{
+      "id": "rt_4b227777d4dd1fc61c6f884f48641d",
+      "key": "DunedinPoAm",
+      "name": "DunedinPACE: Pace of Aging Report",
+      "color1": "#003049",
+      "color2": "#00218F"
+    },
+    {
+      "id": "rt_ef2d127de37b942baad06145e54b0c",
+      "key": "Telomere",
+      "name": "Telomere Length Report",
+      "color1": "#004937",
+      "color2": "#036F79"
+    },
+    {
+      "id": "rt_983bd614bb5afece5ab3b6023f7114",
+      "key": "SymphonyAge",
+      "name": "SYMPHONYAge: Organ Systems Age",
+      "color1": "#690837",
+      "color2": "#9B0709"
+    }
+  ]},
 }
