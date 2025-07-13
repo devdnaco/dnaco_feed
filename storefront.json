@@ -1,113 +1,179 @@
 [[
-    {
-      "teaser": "DNA360 Genomics Test",
-      "brief": "Discover exactly which foods, supplements, workouts, environment, and lifestyle are right for you based on your unique DNA. Then, reach peak health by giving your body exactly what it needs.",
-      "productId": "gid://shopify/Product/8068686414071",
-      "testId": "gid://shopify/Product/8259346596087",
-      "img": "https://i.postimg.cc/7578X9RW/dna360.png"
-    },
-    {
-      "teaser": "DNAging Test",
-      "brief": "With DNAging, your biological age becomes more than a numerical value – it\"s a roadmap, a compass guiding you toward a life of vitality and well-being. Our cutting-edge technology peels back the layers of your DNA, uncovering the secrets encoded in your genes and epigenetic markers.",
-      "productId": "gid://shopify/Product/8080933290231",
-      "testId": "gid://shopify/Product/8154586710263",
-      "img": "https://i.postimg.cc/bGhX5bcN/dnaging.png"
-    },
-    {
-      "productId": "gid://shopify/Product/8068677239031",
-      "testId": "gid://shopify/Product/8154586644727",
-      "teaser": "Liquid B Cancer Test",
-      "brief": "DNA Liquid B is a breakthrough in the detection and management of cancer. This innovative method scrutinizes cancer signals in the blood, offering healthcare professionals a powerful tool for early detection, treatment evaluation, and monitoring for potential recurrence.",
-      "img": "https://i.postimg.cc/xcXSNn3Y/liquidb.png"
-    },
-    {
-      "productId": "gid://shopify/Product/8068677533943",
-      "testId": "gid://shopify/Product/8154586939639",
-      "teaser": "Gut360 Microbiome Test",
-      "brief": "DNA Gut 360 is a cutting-edge health technology that gives you a detailed look into the world of your gut microbiome.",
-      "img": "https://i.postimg.cc/vcCwWk0n/gut360.png"
-    },
-    {
-      "productId": "gid://shopify/Product/8068677763319",
-      "testId": "gid://shopify/Product/8154586808567",
-      "teaser": "Pharmacogenomics Test",
-      "brief": "PGX is a state-of-the-art DNA test that redefines how you approach healthcare. With PGX, you\"ll confidently navigate the selection and dosage of medications, ensuring they align seamlessly with your genetic profile.",
-      "img": "https://i.postimg.cc/5614tzn6/pgx.png"
-    },
-    {
-      "productId": "gid://shopify/Product/8068677468407",
-      "testId": "gid://shopify/Product/8154588053751",
-      "teaser": "Genetic Insights Bundle",
-      "brief": "The Ultimate Genetic Insights Bundle is an advanced testing package meticulously crafted to transform your approach to health and wellness. This bundle includes a personalized consultation with a skilled clinician solely focused on interpreting your PGX test results. This ensures you understand and are able to effectively apply these insights to optimize your health.",
-      "img": "https://i.postimg.cc/23njmGds/pgx360bundle.png"
-    },
-    {
-      "productId": "gid://shopify/Product/8407416176887",
-      "teaser": "Longevity Bundle",
-      "brief": "Our Longevity Bundle includes the DNA 360 Functional Genomics Test and the DNAging Epigenetic Test, providing a deep dive into your genetic and epigenetic makeup.",
-      "img": "https://i.postimg.cc/t7Cbyh1s/bikit.png"
-    },
-    {
-      "productId": "gid://shopify/Product/8114959450359",
-      "testId": "gid://shopify/Product/8289269842167",
-      "teaser": "Vitality Bundle",
-      "brief": "Introducing the DNA Vitality Annual Testing Bundle, a complete health assessment package crafted to give you personalized insights for your best possible health.",
-      "img": "https://i.postimg.cc/ft86kr3J/trikit.png"
-    },
-    {
-      "productId": "gid://shopify/Product/9530140393719",
-      "testId": "gid://shopify/Product/9531520712951",
-      "teaser": "DNA Breast 360",
-      "brief": "The DNA Breast 360 is a groundbreaking, non-invasive breast cancer screening test that analyzes specific proteins in tears to detect early signs of breast cancer.",
-      "img": "https://i.postimg.cc/DfQ0ygs4/breast360.png"
-    }
-], [
   {
-    "productId": "gid://shopify/Product/8068684022007",
-    "teaser": "BDNF Optimizer",
-    "brief": "BDNF Optimizer goes above and beyond, supporting synaptic plasticity and regulating the development of new neurons. Say goodbye to brain fog and hello to improved cognitive function—it's time to unleash your brain's full potential with BDNF Optimizer!",
-    "img": "https://i.postimg.cc/6TrMNJ99/bdnf.png"
-  }, {
-    "productId": "gid://shopify/Product/8068686053623",
-    "teaser": "Detox Optimizer",
-    "brief": "Experience the ultimate detox support with our Detox Optimizer formula. Crafted to enhance the biochemical process of detoxification, this powerhouse supplement is your ally in achieving optimal liver function and restoring liver health. Say goodbye to harmful toxins that threaten disease and welcome a renewed sense of vitality.",
-    "img": "https://i.postimg.cc/N5bb569S/detox.png"
-  }, {
-    "productId": "gid://shopify/Product/8068686119159",
-    "teaser": "Female E Hormone Support",
-    "brief": "Say goodbye to hormonal havoc and hello to balanced vitality with Female E Hormone Support. Tailored to champion estrogen harmony, this supplement is your ally in promoting the liver's natural detoxification process. Perfect for those with estrogen dominant genome profiles, it's a powerhouse in assisting female hormone balance and fostering overall wellness.",
-    "img": "https://i.postimg.cc/G80xZzV8/female-e.png"
-  }, {
-    "productId": "gid://shopify/Product/8068685922551",
-    "teaser": "Methylation Optimizer",
-    "brief": "Experience the transformative power of Methylation Optimizer, meticulously crafted to fuel your body with essential nutrients for optimal methylation. Methylation isn't just a process—it's a cornerstone of cellular vitality and well-being.",
-    "img": "https://i.postimg.cc/bZBTRqRR/methylation.png"
-  }, {
-    "productId": "gid://shopify/Product/8068685857015",
-    "teaser": "Sleep Optimizer",
-    "brief": "Unleash the power of the Sleep Optimizer, meticulously crafted to enhance cognitive function and induce a tranquil state for a blissful night's rest. Dive into a world of calmness and tranquility as your mind unwinds, bidding farewell to restlessness and welcoming a sense of peace.",
-    "img": "https://i.postimg.cc/2b47mhNH/sleep.png"
-  }, {
-    "productId": "gid://shopify/Product/8280782766327",
-    "teaser": "Mitochondrial Optimizer",
-    "brief": "Experience the power of our carefully crafted Mitochondrial Optimizer formula, meticulously designed to fuel your body with essential nutrients and antioxidants. By supporting ATP production, the energy currency of your cells, our formula ignites your inner powerhouse, promoting optimal energy levels and enhancing mitochondrial metabolic health. Feel the difference as your body efficiently transports energy within cells, powering every aspect of your day.",
-    "img": "https://i.postimg.cc/216Gv1n6/mitochondrial.png"
+    "title":"DNA 360 Functional Genomics Test & Reports",
+    "description":"Discover exactly which foods, supplements, workouts, environment, and lifestyle are right for you based on your unique DNA. Then, reach peak health by giving your body exactly what it needs.",
+    "url":"https://thednacompany.com/products/genetic-collection-kit-and-report",
+    "image":"https://i.postimg.cc/7578X9RW/dna360.png",
+    "displayPrice":499
+  },
+  {
+    "title":"DNAging Epigenetic Test & Reports",
+    "description":"With DNAging, your biological age becomes more than a numerical value \u2013 it's a roadmap, a compass guiding you toward a life of vitality and well-being. Our cutting-edge technology peels back the layers of your DNA, uncovering the secrets encoded in your genes and epigenetic markers.",
+    "url":"https://thednacompany.com/products/dnaging-kit",
+    "image":"https://i.postimg.cc/bGhX5bcN/dnaging.png",
+    "displayPrice":399
+  },
+  {
+    "title":"DNA Breast 360 Breast Cancer Screening & Reports",
+    "description":"The DNA Breast 360 is a groundbreaking, non-invasive breast cancer screening test that analyzes specific proteins in tears to detect early signs of breast cancer.",
+    "url":"https://thednacompany.com/products/breast-360",
+    "image":"https://i.postimg.cc/DfQ0ygs4/breast360.png",
+    "displayPrice":349
+  },
+  {
+    "title":"DNA Gut 360 PREMIUM Comprehensive Microbiome Test",
+    "description":"From digestion to immunity and beyond, DNA Gut 360 Premium is your guide to understanding the critical role your microbiome plays in overall health.",
+    "url":"https://thednacompany.com/products/gut-premium",
+    "image":"https://i.postimg.cc/vcCwWk0n/gut360.png",
+    "displayPrice":599
+  },
+  {
+    "title":"PGX Pharmacogenomics Test & Reports",
+    "description":"PGX is a state-of-the-art DNA test that redefines how you approach healthcare. With PGX, you'll confidently navigate the selection and dosage of medications, ensuring they align seamlessly with your genetic profile.",
+    "url":"https://thednacompany.com/products/pgx",
+    "image":"https://i.postimg.cc/5614tzn6/pgx.png",
+    "displayPrice":499
+  },
+  {
+    "title":"DNAging PREMIUM Biological Age Test & Reports",
+    "description":"DNAging PREMIUM is the most comprehensive epigenetic test available for those who want to take control of their aging process.",
+    "url":"https://thednacompany.com/products/dnaging-complete",
+    "image":"https://cdn.shopify.com/s/files/1/0678/7596/3127/files/dnaging-complete-biological-age-test-reports-895064.jpg?v=1733953402",
+    "displayPrice":599
+  },
+  {
+    "title":"Longevity Bundle: DNA 360 & DNAging",
+    "description":"Our Longevity Bundle includes the DNA 360 Functional Genomics Test and the DNAging Epigenetic Test, providing a deep dive into your genetic and epigenetic makeup.",
+    "url":"https://thednacompany.com/products/longevity-bundle",
+    "image":"https://cdn.shopify.com/s/files/1/0678/7596/3127/files/31_c981014a-56c2-4d78-b590-1128fd15a9dc_optimized.png?v=1722634665",
+    "displayPrice":808
+  },
+  {
+    "title":"Annual Vitality Bundle: DNAging, DNA Gut 360, & DNA Liquid B",
+    "description":"Introducing the DNA Vitality Annual Testing Bundle, a complete health assessment package crafted to give you personalized insights for your best possible health.",
+    "url":"https://thednacompany.com/products/annual-vitality-bundle",
+    "image":"https://cdn.shopify.com/s/files/1/0678/7596/3127/files/7_2_1.png?v=1710874047",
+    "displayPrice":2998
+  },
+  {
+    "title":"Liquid Biopsy Cancer Screening Bundle",
+    "description":"This bundle is a breakthrough in the detection and management of cancer. Pairing our tests with the Galleri\u00ae test from GRAIL offers a powerful tool for early detection, treatment evaluation, and monitoring for potential recurrence.",
+    "url":"https://thednacompany.com/products/liquid-b",
+    "image":"https://cdn.shopify.com/s/files/1/0678/7596/3127/files/remove_watermark_image_20250611_064634.png?v=1749606497",
+    "displayPrice":1899
+  },
+  {
+    "title":"Genetic Insights Bundle: DNA 360 & PGX",
+    "description":"The Ultimate Genetic Insights Bundle is an advanced testing package meticulously crafted to transform your approach to health and wellness.  This bundle includes a personalized consultation with a skilled clinician solely focused on interpreting your PGX test results. This ensures you understand and are able to effectively apply these insights to optimize your health.",
+    "url":"https://thednacompany.com/products/genetic-insights-bundle",
+    "image":"https://cdn.shopify.com/s/files/1/0678/7596/3127/files/6_1_1.png?v=1710191821",
+    "displayPrice":899
+  },
+  {
+    "title":"Mira Hormone Monitor: Max Starter Kit",
+    "description":"No more guessing. Monitor your hormones at home to make confident decisions about your fertility. The Mira Max Starter Kit is an all-around solution for hormone tracking.",
+    "url":"https://thednacompany.com/products/mira-hormone-monitor-max-kit",
+    "image":"https://cdn.shopify.com/s/files/1/0678/7596/3127/files/mira-hormone-monitor-max-kit-900689.jpg?v=1748919768",
+    "displayPrice":354
+  },
+  {
+    "title":"Mira Hormone Monitor: 20 Fertility Max Wands Refill",
+    "description":"Maximize your fertility journey with a single reading. The Mira Max Wands track 3 key fertility hormones (LH + E3G + PdG) at once via the Mira Fertility Tracker. Predict, confirm, and pinpoint your fertile window. Get real-time numerical stats, hormone concentrations, and plan your fertility journey with clarity. Max Kit required for use.",
+    "url":"https://thednacompany.com/products/mira-hormone-monitor-20-mira-fertility-max-wands",
+    "image":"https://cdn.shopify.com/s/files/1/0678/7596/3127/files/Carousel_1_cover_7.webp?v=1749230905",
+    "displayPrice":69
+  },
+  {
+    "title":"Mira Hormone Monitor: 20 Ovum Wands Refill",
+    "description":"Tracks FSH! Measure the hormone in charge of your fertility plans, get insight into your ovulation days, and find out if you're ready for a healthy pregnancy, or get assistance in detecting menopause. Max Kit required for use.",
+    "url":"https://thednacompany.com/products/20-mira-ovum-wands-refill",
+    "image":"https://cdn.shopify.com/s/files/1/0678/7596/3127/files/Carousel_1_cover_8.webp?v=1749503591",
+    "displayPrice":65
   }
 ], [
   {
-    "productId": "gid://shopify/Product/8068680810743",
-    "teaser": "DNABlueprint: Living",
-    "brief": "Your DNABlueprint: Living Program is the entry level into your physical genome. Imagine, discovering the right way to eat, exercise, and the foods that are authentic to your genetics. In this experience you will develop a plan with your Functional Genomics Practitioner to better understand why your body reacts in certain ways to life, the environment, food, and much more. This is a great way to start on your path to exceptional health and wellness.",
-    "img": "https://cdn.shopify.com/s/files/1/0678/7596/3127/files/1_50_f50697cf-fc65-4372-b18e-5bbd1a64f5ae.webp?v=1707432082"
-  }, {
-    "productId": "gid://shopify/Product/8068680253687",
-    "teaser": "DNABlueprint: Lifestyle",
-    "brief": "The DNABlueprint: Lifestyle Program is a plan, unlike any other. This is the path to your ultimate health. Your dedicated Functional Genomic Practitioner will lead you through your genetic blueprint and help you design your optimal health Lifestyle. You will have an expert perform audits of your diet, nutrition, lifestyle, home, and work environments to identify challenges that could be damaging your health. True health optimization starts with investigating every aspect of your life.",
-    "img": "https://cdn.shopify.com/s/files/1/0678/7596/3127/files/2_50_5a511b10-bdab-4dd4-88ef-758975cba4d6.webp?v=1707431876"
-  }, {
-    "productId": "gid://shopify/Product/8068685398263",
-    "teaser": "DNABlueprint: Longevity",
-    "brief": "This is the pinnacle experience for anyone who wants to live a full, vibrant, and exceptional life! Imagine, having the owner’s manual to your body. Having the tools to avoid, eliminate, eradicate, and defend against chronic conditions and disease. What can your body process authentically regarding food? What environmental challenges will affect you more intensely? What is your true biological age? And how can you put years back on your life?",
-    "img": "https://cdn.shopify.com/s/files/1/0678/7596/3127/files/4_50_f09cc872-ecad-4753-81e6-c03b87aae450.webp?v=1707431985"
+    "title":"BDNF Optimizer",
+    "description":"Think your brain fog is just part of getting older? Think again\u2014BDNF Optimizer unlocks your brain\u2019s natural ability ...",
+    "url":"https://thednacompany.com/products/bdnf-optimizer",
+    "image":"https://i.postimg.cc/6TrMNJ99/bdnf.png",
+    "displayPrice":58
+  },
+  {
+    "title":"Detox Optimizer",
+    "description":"Feeling sluggish and weighed down? Your body might be screaming for a detox. Detox Optimizer is your ultimate solut...",
+    "url":"https://thednacompany.com/products/detox-optimizer",
+    "image":"https://i.postimg.cc/N5bb569S/detox.png",
+    "displayPrice":59
+  },
+  {
+    "title":"Female E Hormone Support",
+    "description":"Tired of battling hormonal chaos? It\u2019s time to take control and reclaim your balance with Female E Hormone Support.\u00a0...",
+    "url":"https://thednacompany.com/products/female-e-hormone-support",
+    "image":"https://i.postimg.cc/G80xZzV8/female-e.png",
+    "displayPrice":46
+  },
+  {
+    "title":"Methylation Optimizer",
+    "description":".Are you letting sluggish methylation hold your health back, or are you ready to optimize your body\u2019s most critical ...",
+    "url":"https://thednacompany.com/products/methylation-optimizer",
+    "image":"https://i.postimg.cc/bZBTRqRR/methylation.png",
+    "displayPrice":77
+  },
+  {
+    "title":"Sleep Optimizer",
+    "description":"Are you tired of tossing and turning at night, waking up groggy, and feeling like good sleep is out of reach? It doe...",
+    "url":"https://thednacompany.com/products/sleep-optimizer",
+    "image":"https://i.postimg.cc/2b47mhNH/sleep.png",
+    "displayPrice":55
+  },
+  {
+    "title":"Mitochondrial Optimizer",
+    "description":"Are you tired of running on empty, wondering why your energy levels are always low? It\u2019s time to give your body the ...",
+    "url":"https://thednacompany.com/products/mitochondrial-optimizer-c",
+    "image":"https://i.postimg.cc/216Gv1n6/mitochondrial.png",
+    "displayPrice":75
+  },
+  {
+    "title":"Deep Calm Optimizer",
+    "description":"Designed to promote relaxation without drowsiness, Deep Calm combines powerful botanicals and amino acids to support ...",
+    "url":"https://thednacompany.com/products/deep-calm-optimizer-1",
+    "image":"//thednacompany.com/cdn/shop/files/deep-calm-optimizer-292357.png?v=1738923865&width=1776",
+    "displayPrice":65
+  }
+], [
+  {
+    "title":"DNABlueprint Living Health Program",
+    "description":"Your DNABlueprint: Living Program is the entry level into your physical genome. Imagine, discovering the right way to eat, exercise, and the foods that are authentic to your genetics. In this experience you will develop a plan with your Functional Genomics Practitioner to better understand why your body reacts in certain ways to life, the environment, food, and much more. This is a great way to start on your path to exceptional health and wellness.",
+    "url":"https://thednacompany.com/products/dnablueprint-living",
+    "image":"https://cdn.shopify.com/s/files/1/0678/7596/3127/files/1_50_f50697cf-fc65-4372-b18e-5bbd1a64f5ae.webp?v=1707432082",
+    "displayPrice":1499
+  },
+  {
+    "title":"DNABlueprint Lifestyle Health Program",
+    "description":"The DNABlueprint: Lifestyle Program is a plan, unlike any other. This is the path to your ultimate health. Your dedicated Functional Genomic Practitioner will lead you through your genetic blueprint and help you design your optimal health Lifestyle. You will have an expert perform audits of your diet, nutrition, lifestyle, home, and work environments to identify challenges that could be damaging your health. True health optimization starts with investigating every aspect of your life.",
+    "url":"https://thednacompany.com/products/dnablueprint-lifestyle",
+    "image":"https://cdn.shopify.com/s/files/1/0678/7596/3127/files/2_50_5a511b10-bdab-4dd4-88ef-758975cba4d6.webp?v=1707431876",
+    "displayPrice":5800
+  },
+  {
+    "title":"DNABlueprint Longevity Health Program",
+    "description":"This is the pinnacle experience for anyone who wants to live a full, vibrant, and exceptional life! Imagine, having the owner\u2019s manual to your body. Having the tools to avoid, eliminate, eradicate, and defend against chronic conditions and disease. What can your body process authentically regarding food? What environmental challenges will affect you more intensely? What is your true biological age? And how can you put years back on your life?",
+    "url":"https://thednacompany.com/products/dnablueprint-longevity",
+    "image":"https://cdn.shopify.com/s/files/1/0678/7596/3127/files/4_50_f09cc872-ecad-4753-81e6-c03b87aae450.webp?v=1707431985",
+    "displayPrice":8800
+  },
+  {
+    "title":"The DNA4Men Personalized Health Program",
+    "description":"The DNA4Men program is a groundbreaking approach designed to fill the critical gaps in men\u2019s healthcare, offering personalized, genetics-informed solutions to optimize health, longevity, and mental well-being.",
+    "url":"https://thednacompany.com/products/dna4men",
+    "image":"https://cdn.shopify.com/s/files/1/0678/7596/3127/files/the-dna4men-personalized-health-program-152189.png?v=1735609460",
+    "displayPrice":4599
+  },
+  {
+    "title":"The DNA4Women Personalized Health Program",
+    "description":"The DNA4Women program is a revolutionary approach to women\u2019s healthcare, designed to address the unique health challenges women face with personalized, genetics-informed solutions.",
+    "url":"https://thednacompany.com/products/dna4women",
+    "image":"https://cdn.shopify.com/s/files/1/0678/7596/3127/files/the-dna4women-personalized-health-program-508794.png?v=1735609460",
+    "displayPrice":4599
   }
 ]]
