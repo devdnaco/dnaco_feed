@@ -7,11 +7,11 @@
     "displayPrice":499
   },
   {
-    "title":"DNAging Epigenetic Test & Reports",
+    "title":"DNAging Premium Epigenetic Test & Reports",
     "description":"With DNAging, your biological age becomes more than a numerical value \u2013 it's a roadmap, a compass guiding you toward a life of vitality and well-being. Our cutting-edge technology peels back the layers of your DNA, uncovering the secrets encoded in your genes and epigenetic markers.",
-    "url":"https://thednacompany.com/products/dnaging-kit",
+    "url":"https://thednacompany.com/products/dnaging-complete",
     "image":"https://i.postimg.cc/bGhX5bcN/dnaging.png",
-    "displayPrice":399
+    "displayPrice":599
   },
   {
     "title":"DNA Breast 360 Breast Cancer Screening & Reports",
@@ -33,13 +33,6 @@
     "url":"https://thednacompany.com/products/pgx",
     "image":"https://i.postimg.cc/5614tzn6/pgx.png",
     "displayPrice":499
-  },
-  {
-    "title":"DNAging PREMIUM Biological Age Test & Reports",
-    "description":"DNAging PREMIUM is the most comprehensive epigenetic test available for those who want to take control of their aging process.",
-    "url":"https://thednacompany.com/products/dnaging-complete",
-    "image":"https://cdn.shopify.com/s/files/1/0678/7596/3127/files/dnaging-complete-biological-age-test-reports-895064.jpg?v=1733953402",
-    "displayPrice":599
   },
   {
     "title":"Longevity Bundle: DNA 360 & DNAging",
