@@ -193,5 +193,10 @@
             }
         ]
     },
-    "Longevity"
+    {
+        "id": "longevity",
+        "name": "Longevity",
+        "color1": "#610869",
+        "color2": "#9B0798"
+    }
 ]
