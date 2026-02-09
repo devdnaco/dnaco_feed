@@ -1,6 +1,6 @@
 {
-	"minStableVersion": "1.1.0",
-	"minAllowedVersion": "1.1.0",
+	"minStableVersion": "1.2.0",
+	"minAllowedVersion": "1.2.0",
 	"storefrontVersion": 6,
 	"truDiagnosticVersion": 1,
 	"truSkuDataVersion": 2,
