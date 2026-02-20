@@ -21,7 +21,7 @@
     { 
     	"id": "PGx",
     	"name": "PGx",
-    	"box": true,
+    	"box": false,
     	"longName": "Pharmacogenomics",
     	"image": "https://portal.thednacompany.com/images/reports/pgx.webp",
     	"description": "Confidently align medication dosages with your genetic profile.",
