@@ -1,0 +1,46 @@
+[
+    { 
+    	"id": "Dna360",
+    	"name": "Dna360",
+    	"box": true,
+    	"longName": "DNA 360", 
+    	"image": "https://portal.thednacompany.com/images/reports/dna360.webp",
+    	"description": "Discover the lifestyle that's right for you, based on your unique DNA.", 
+    	"purchaseHref": "https://thednacompany.com/products/genetic-collection-kit-and-report", 
+    	"sampleHref": "/reports/360/sample" 
+    },
+    { 
+    	"id": "DNAging",
+    	"name": "DNAging",
+    	"box": true, 
+	    "image": "https://portal.thednacompany.com/images/reports/dnaging.webp",
+		"description": "Reveal the truth about how fast your body is aging.",
+		"purchaseHref": "https://thednacompany.com/products/dnaging-complete", 
+		"sampleHref": "/reports/dnaging/sample" 
+	},
+    { 
+    	"id": "PGx",
+    	"name": "PGx",
+    	"box": true,
+    	"longName": "Pharmacogenomics",
+    	"image": "https://portal.thednacompany.com/images/reports/pgx.webp",
+    	"description": "Confidently align medication dosages with your genetic profile.",
+    	"purchaseHref": "https://thednacompany.com/products/pgx",
+    	"sampleHref": "/reports/pgx/sample"
+    },
+    {
+    	"id": "Gut360",
+    	"name": "Gut360",
+    	"external": "https://my.jona.health/partner/dnaco"
+    },
+    {
+    	"id": "Breast360",
+    	"name": "Breast360",
+    	"external": "https://thednacompany.com/products/breast-360?srsltid=AfmBOop7QcnqupmBYma2rdukqW_ahVdW8pfc1rzpWTAtYVmk6BG8PK5a"
+    },
+    {
+    	"id": "LiquidB",
+    	"name": "LiquidB",
+    	"external": "https://provider.grail.com/login"
+    }
+]
