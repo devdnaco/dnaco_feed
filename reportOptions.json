@@ -12,6 +12,8 @@
     { 
     	"id": "DNAging",
     	"name": "DNAging",
+        "retestWeeks": 52,
+        "retestLanguage": "RE-TEST RECOMMENDED",
     	"box": true, 
 	    "image": "https://portal.thednacompany.com/images/reports/dnaging.webp",
 		"description": "Reveal the truth about how fast your body is aging.",
