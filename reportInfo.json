@@ -75,7 +75,7 @@
     },
     {
         "id": "sleep",
-        "name": "Quality of Sleep",
+        "name": "Sleep",
         "color1": "#003049",
         "color2": "#00218F",
         "video": "https://dnacompany.azureedge.net/assets/video/sleep%20(1080p).mp4",
@@ -108,7 +108,7 @@
     },
     {
         "id": "hormones",
-        "name": "Hormones and Body",
+        "name": "Hormones and Fitness",
         "color1": "#004937",
         "color2": "#036F79",
         "video": "https://dnacompany.azureedge.net/assets/video/body_type%20(1080p).mp4",
