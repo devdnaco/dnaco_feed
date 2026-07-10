@@ -7,11 +7,11 @@
     "displayPrice":499
   },
   {
-    "title":"DNAging Premium Epigenetic Test & Reports",
+    "title":"DNAging Premium Biological Age Test & Clinician Call",
     "description":"With DNAging, your biological age becomes more than a numerical value \u2013 it's a roadmap, a compass guiding you toward a life of vitality and well-being. Our cutting-edge technology peels back the layers of your DNA, uncovering the secrets encoded in your genes and epigenetic markers.",
     "url":"https://thednacompany.com/products/dnaging-complete",
     "image":"https://i.postimg.cc/bGhX5bcN/dnaging.png",
-    "displayPrice":599
+    "displayPrice":459
   },
   {
     "title":"DNA Breast 360 Breast Cancer Screening & Reports",
@@ -21,60 +21,11 @@
     "displayPrice":349
   },
   {
-    "title":"DNA Gut 360 PREMIUM Comprehensive Microbiome Test",
-    "description":"From digestion to immunity and beyond, DNA Gut 360 Premium is your guide to understanding the critical role your microbiome plays in overall health.",
-    "url":"https://thednacompany.com/products/gut-premium",
-    "image":"https://i.postimg.cc/vcCwWk0n/gut360.png",
-    "displayPrice":599
-  },
-  {
-    "title":"Longevity Bundle: DNA 360 & DNAging",
+    "title":"Longevity Bundle: DNA 360 + DNAging Premium",
     "description":"Our Longevity Bundle includes the DNA 360 Functional Genomics Test and the DNAging Epigenetic Test, providing a deep dive into your genetic and epigenetic makeup.",
     "url":"https://thednacompany.com/products/longevity-bundle",
     "image":"https://cdn.shopify.com/s/files/1/0678/7596/3127/files/31_c981014a-56c2-4d78-b590-1128fd15a9dc_optimized.png?v=1722634665",
-    "displayPrice":808
-  },
-  {
-    "title":"Annual Vitality Bundle: DNAging, DNA Gut 360, & DNA Liquid B",
-    "description":"Introducing the DNA Vitality Annual Testing Bundle, a complete health assessment package crafted to give you personalized insights for your best possible health.",
-    "url":"https://thednacompany.com/products/annual-vitality-bundle",
-    "image":"https://cdn.shopify.com/s/files/1/0678/7596/3127/files/7_2_1.png?v=1710874047",
-    "displayPrice":2998
-  },
-  {
-    "title":"Liquid Biopsy Cancer Screening Bundle",
-    "description":"This bundle is a breakthrough in the detection and management of cancer. Pairing our tests with the Galleri\u00ae test from GRAIL offers a powerful tool for early detection, treatment evaluation, and monitoring for potential recurrence.",
-    "url":"https://thednacompany.com/products/liquid-b",
-    "image":"https://cdn.shopify.com/s/files/1/0678/7596/3127/files/remove_watermark_image_20250611_064634.png?v=1749606497",
-    "displayPrice":1899
-  },
-  {
-    "title":"Genetic Insights Bundle: DNA 360 & PGX",
-    "description":"The Ultimate Genetic Insights Bundle is an advanced testing package meticulously crafted to transform your approach to health and wellness.  This bundle includes a personalized consultation with a skilled clinician solely focused on interpreting your PGX test results. This ensures you understand and are able to effectively apply these insights to optimize your health.",
-    "url":"https://thednacompany.com/products/genetic-insights-bundle",
-    "image":"https://cdn.shopify.com/s/files/1/0678/7596/3127/files/6_1_1.png?v=1710191821",
-    "displayPrice":899
-  },
-  {
-    "title":"Mira Hormone Monitor: Max Starter Kit",
-    "description":"No more guessing. Monitor your hormones at home to make confident decisions about your fertility. The Mira Max Starter Kit is an all-around solution for hormone tracking.",
-    "url":"https://thednacompany.com/products/mira-hormone-monitor-max-kit",
-    "image":"https://cdn.shopify.com/s/files/1/0678/7596/3127/files/mira-hormone-monitor-max-kit-900689.jpg?v=1748919768",
-    "displayPrice":354
-  },
-  {
-    "title":"Mira Hormone Monitor: 20 Fertility Max Wands Refill",
-    "description":"Maximize your fertility journey with a single reading. The Mira Max Wands track 3 key fertility hormones (LH + E3G + PdG) at once via the Mira Fertility Tracker. Predict, confirm, and pinpoint your fertile window. Get real-time numerical stats, hormone concentrations, and plan your fertility journey with clarity. Max Kit required for use.",
-    "url":"https://thednacompany.com/products/mira-hormone-monitor-20-mira-fertility-max-wands",
-    "image":"https://cdn.shopify.com/s/files/1/0678/7596/3127/files/Carousel_1_cover_7.webp?v=1749230905",
-    "displayPrice":69
-  },
-  {
-    "title":"Mira Hormone Monitor: 20 Ovum Wands Refill",
-    "description":"Tracks FSH! Measure the hormone in charge of your fertility plans, get insight into your ovulation days, and find out if you're ready for a healthy pregnancy, or get assistance in detecting menopause. Max Kit required for use.",
-    "url":"https://thednacompany.com/products/20-mira-ovum-wands-refill",
-    "image":"https://cdn.shopify.com/s/files/1/0678/7596/3127/files/Carousel_1_cover_8.webp?v=1749503591",
-    "displayPrice":65
+    "displayPrice":859
   }
 ], [
   {
@@ -147,19 +98,5 @@
     "url":"https://thednacompany.com/products/dnablueprint-longevity",
     "image":"https://cdn.shopify.com/s/files/1/0678/7596/3127/files/4_50_f09cc872-ecad-4753-81e6-c03b87aae450.webp?v=1707431985",
     "displayPrice":8800
-  },
-  {
-    "title":"The DNA4Men Personalized Health Program",
-    "description":"The DNA4Men program is a groundbreaking approach designed to fill the critical gaps in men\u2019s healthcare, offering personalized, genetics-informed solutions to optimize health, longevity, and mental well-being.",
-    "url":"https://thednacompany.com/products/dna4men",
-    "image":"https://cdn.shopify.com/s/files/1/0678/7596/3127/files/the-dna4men-personalized-health-program-152189.png?v=1735609460",
-    "displayPrice":4599
-  },
-  {
-    "title":"The DNA4Women Personalized Health Program",
-    "description":"The DNA4Women program is a revolutionary approach to women\u2019s healthcare, designed to address the unique health challenges women face with personalized, genetics-informed solutions.",
-    "url":"https://thednacompany.com/products/dna4women",
-    "image":"https://cdn.shopify.com/s/files/1/0678/7596/3127/files/the-dna4women-personalized-health-program-508794.png?v=1735609460",
-    "displayPrice":4599
   }
 ]]
