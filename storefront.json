@@ -21,13 +21,6 @@
     "displayPrice":599
   },
   {
-    "title":"DNA Breast 360 Breast Cancer Screening & Reports",
-    "description":"The DNA Breast 360 is a groundbreaking, non-invasive breast cancer screening test that analyzes specific proteins in tears to detect early signs of breast cancer.",
-    "url":"https://thednacompany.com/products/breast-360",
-    "image":"https://i.postimg.cc/DfQ0ygs4/breast360.png",
-    "displayPrice":349
-  },
-  {
     "title":"Longevity Bundle: DNA 360 + DNAging Premium",
     "description":"Our Longevity Bundle includes the DNA 360 Functional Genomics Test and the DNAging Epigenetic Test, providing a deep dive into your genetic and epigenetic makeup.",
     "url":"https://thednacompany.com/products/longevity-bundle",
@@ -93,17 +86,17 @@
     "displayPrice":1499
   },
   {
-    "title":"DNABlueprint Lifestyle Health Program",
-    "description":"The DNABlueprint: Lifestyle Program is a plan, unlike any other. This is the path to your ultimate health. Your dedicated Functional Genomic Practitioner will lead you through your genetic blueprint and help you design your optimal health Lifestyle. You will have an expert perform audits of your diet, nutrition, lifestyle, home, and work environments to identify challenges that could be damaging your health. True health optimization starts with investigating every aspect of your life.",
-    "url":"https://thednacompany.com/products/dnablueprint-lifestyle",
-    "image":"https://cdn.shopify.com/s/files/1/0678/7596/3127/files/2_50_5a511b10-bdab-4dd4-88ef-758975cba4d6.webp?v=1707431876",
-    "displayPrice":5800
+    "title":"DNAFit Program with Felicia Bruno",
+    "description":"Elevate your fitness journey with DNAFit by Felicia Bruno, where personalized fitness plans are crafted by none other than an IFBB pro figure competitor. Over the course of 3 months, Felicia Bruno will meticulously design a fitness plan tailored to your unique goals, ensuring every aspect of your journey is optimized for success.",
+    "url":"https://thednacompany.com/products/dnafit-felicia",
+    "image":"https://thednacompany.com/cdn/shop/files/dnafit-coaching-with-felicia-bruno-1195555.png?v=1769351717&width=1680",
+    "displayPrice":750
   },
   {
-    "title":"DNABlueprint Longevity Health Program",
-    "description":"This is the pinnacle experience for anyone who wants to live a full, vibrant, and exceptional life! Imagine, having the owner\u2019s manual to your body. Having the tools to avoid, eliminate, eradicate, and defend against chronic conditions and disease. What can your body process authentically regarding food? What environmental challenges will affect you more intensely? What is your true biological age? And how can you put years back on your life?",
-    "url":"https://thednacompany.com/products/dnablueprint-longevity",
-    "image":"https://cdn.shopify.com/s/files/1/0678/7596/3127/files/4_50_f09cc872-ecad-4753-81e6-c03b87aae450.webp?v=1707431985",
-    "displayPrice":8800
+    "title":"DNAFood Program with Rheanne",
+    "description":"Rheanne Lima is a Certified Functional Genomics Practitioner and Certified Functional Nutrition Counselor with a strong foundation in whole food-based nutrition and personalized wellness. She specializes in developing individualized wellness plans that apply a root-cause, systems-based approach to help clients address underlying imbalances and support long-term vitality.",
+    "url":"https://thednacompany.com/products/dna-food-program",
+    "image":"https://thednacompany.com/cdn/shop/files/dnaco_DNA_Food_IMG_1_1.png?v=1769351717&width=1680",
+    "displayPrice":750
   }
 ]]
